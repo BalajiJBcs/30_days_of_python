@@ -1,9 +1,11 @@
 # 30 days of python
+
 Learn python in 30 days 
 
 The following tutorial is designed based on my experiance on python for couple of years. This would reduce the learning curve for people who like to learn python. I have added resources, book suggestion, interview question and lot more.
 
 ## Array | Day 1
+
 
 ### Declaring array in Python
 
@@ -40,6 +42,7 @@ remove **Burger** from the foods array.
 
 ## Data types | Day  2 
 
+
 | Name           	| Type  	| Description                                                      	|
 |----------------	|-------	|------------------------------------------------------------------	|
 | Integers       	| int   	| Whole numbers (5, 700, 10)                                       	|
@@ -50,3 +53,8 @@ remove **Burger** from the foods array.
 | Tuples         	| tup   	| Ordered but immutable sequence of Objects ("John", 500, "jelly") 	|
 | Sets           	| set   	| Unordered collection of unique objects {"1", "2"}                	|
 | Booleans       	| Bool  	| True or False                                                    	|
+
+Code Example
+
+[Indexing and Slicing Strings](https://github.com/BalajiJBcs/30_days_of_python/blob/master/code/indexSlicingStrings/indexSlicingStrings.ipynb)
+
