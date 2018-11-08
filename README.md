@@ -56,5 +56,5 @@ remove **Burger** from the foods array.
 
 Code Example
 
-[Indexing and Slicing Strings](https://github.com/BalajiJBcs/30_days_of_python/blob/master/code/indexSlicingStrings/indexSlicingStrings.ipynb)
+[Indexing and Slicing Strings](https://github.com/BalajiJBcs/30_days_of_python/blob/master/code/indexSlicingStrings/IndexingSlicingString.ipynb)
 
