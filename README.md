@@ -36,3 +36,17 @@ remove the value in foods array based on the index position.
 `foods.remove("Burger")`
 
 remove **Burger** from the foods array.
+
+
+## Data types | Day  2 
+
+| Name           	| Type  	| Description                                                      	|
+|----------------	|-------	|------------------------------------------------------------------	|
+| Integers       	| int   	| Whole numbers (5, 700, 10)                                       	|
+| Strings        	| str   	| Sequence of characters ("Briyani", "Fruits", "Banana")           	|
+| Floating Point 	| float 	| Decimal point (2.3 , 9.6 , 3.14 )                                	|
+| Dictionaries   	| dict  	| Key -> Value pair {"food1" : "Briyani", "food2" : "Pizza"}       	|
+| Lists          	| list  	| Sequence of objects ("Balaji", 100, "John")                      	|
+| Tuples         	| tup   	| Ordered but immutable sequence of Objects ("John", 500, "jelly") 	|
+| Sets           	| set   	| Unordered collection of unique objects {"1", "2"}                	|
+| Booleans       	| Bool  	| True or False                                                    	|
