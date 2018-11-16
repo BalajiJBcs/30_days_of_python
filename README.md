@@ -72,3 +72,19 @@ Code Example
 | Tuples         	| tup   	| Ordered but immutable sequence of Objects ("John", 500, "jelly") 	|
 | Sets           	| set   	| Unordered collection of unique objects {"1", "2"}                	|
 | Booleans       	| Bool  	| True or False                                                    	|
+
+## Reserved Statements  | Day 4
+
+`if`
+`elif`
+`else`
+`while`
+`for`
+`from`
+`def`
+`del`
+
+The following are some reserved words in python. This words can not be used for inshanshiation of any value to the keyword or reserved statements.
+
+
+
